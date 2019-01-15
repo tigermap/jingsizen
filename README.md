@@ -1,2 +1,3 @@
 # jingsizen.cn
-Copyright &copy; 静思禅心, 2019 | <a href="https://JingSiZen.cn/" target="_blank" rel="nofollow">静思禅心</a></p>
+<p>Copyright &copy; 静思禅心, 2019 |
+			<a href="http://www.miibeian.gov.cn/" target="_blank" class="text">京ICP备19002634号</a></p>
